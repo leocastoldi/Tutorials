@@ -1,4 +1,7 @@
-link do tutorial: https://www.youtube.com/watch?v=oYRda7UtuhA&t=808s
+link do tutorial: https://youtu.be/oYRda7UtuhA?t=304
 baixar imagens do link do tutorial: https://drive.google.com/file/d/1DzEpUUBhUL5l-NeQ0IuaOpBZkmi9z1Fm/view
 criar pasta com imagens do site: Projeto MapcellCasaBranca
-comparar as imagens e baixar parecidas para meu projeto.
+comparar as imagens e baixar parecidas para meu projeto
+baixando icones e pesquisando imagens do site da mapcell
+mudando link do tutorial para saber onde parei
+
